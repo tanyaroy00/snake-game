@@ -12,3 +12,8 @@ Snake is a classic arcade game that gained global popularity when Nokia included
 2. The aim of the game is to eat the red food particles by moving snakey towards it and grow bigger
 <br>
 3. Snakey should stay within the boundaries of the screen and not collide with itself
+<br>
+<h2>To Run Program And Play</h2>
+run: python3 snakey.py 
+<br>
+and enjoy:)
