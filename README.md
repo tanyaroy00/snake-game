@@ -1,6 +1,7 @@
 # snake-game
 <br>
 AUTHOR: Tanya Roy
+<br>
 DATE: -
 <br>
 <h1>Description</h1>
